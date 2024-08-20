@@ -1,0 +1,78 @@
+.h1 { 
+    text-align: center;
+    margin: auto;
+    font-family: "Libre Baskerville", Times, serif;
+}
+
+.jumbotron{
+    text-align: center;
+    margin: auto;
+    font-family: "Libre Baskerville", Times, serif;
+    background-color: darkgreen;
+    color: white;
+}
+
+
+.intro {
+    max-width: 600px;
+    margin: auto;
+    text-align: center;
+}
+
+.hand-drawing {
+    text-align: center; /* This centers the image */
+    margin: 20px auto; /* Optional: add some spacing */
+}
+
+.h2{
+    font-family: "Libre Baskerville", Times, serif;
+
+}
+
+.h3{
+    text-align: center;
+    margin: auto;
+    font-family: "Libre Baskerville", Times, serif;
+}
+
+.container-fluid{
+    text-align: center;
+    margin: auto;
+}
+
+.h4{
+    font-family: "Libre Baskerville", Times, serif;
+    text-align: left;
+    margin: auto;
+}
+
+.proto-persona img {
+    width: 100%; /* Adjust this value to your preferred size */
+    max-width: 1200px; /* Ensures the image doesn't exceed a certain width */
+    height: auto; /* Maintains the aspect ratio */
+    display: block; /* Ensures the image is treated as a block element */
+    margin: 0 auto; /* Centers the image horizontally within the container */
+}
+
+.who-are-you-info{
+    text-align: left;
+}
+
+.problem-statement-info{
+    text-align: left;
+
+}
+
+.stickies{
+    text-align: center;
+
+}
+
+.style-tyle img{
+
+    width: 100%; 
+    max-width: 1200px; 
+    height: auto; 
+    display: block; 
+    margin: 0 auto; 
+}
