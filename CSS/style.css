@@ -20,8 +20,8 @@
 }
 
 .hand-drawing {
-    text-align: center; /* This centers the image */
-    margin: 20px auto; /* Optional: add some spacing */
+    text-align: center; 
+    margin: 20px auto; 
 }
 
 .h2{
@@ -38,6 +38,7 @@
 .container-fluid{
     text-align: center;
     margin: auto;
+    
 }
 
 .h4{
@@ -47,11 +48,11 @@
 }
 
 .proto-persona img {
-    width: 100%; /* Adjust this value to your preferred size */
-    max-width: 1200px; /* Ensures the image doesn't exceed a certain width */
-    height: auto; /* Maintains the aspect ratio */
-    display: block; /* Ensures the image is treated as a block element */
-    margin: 0 auto; /* Centers the image horizontally within the container */
+    width: 100%; 
+    max-width: 1200px; 
+    height: auto; 
+    display: block; 
+    margin: 0 auto; 
 }
 
 .who-are-you-info{
@@ -73,6 +74,30 @@
     width: 100%; 
     max-width: 1200px; 
     height: auto; 
+    display: block; 
+    margin: 0 auto; 
+}
+
+.hifi2 {
+    width: 25%; 
+    max-width: 600px; 
+   
+}
+
+.phones-3{
+    text-align: center;
+}
+
+.hero-home-page img {
+    width: 75%; 
+    max-width: 1100px; 
+    display: block; 
+    margin: 0 auto; 
+}
+
+.hero-computer img {
+    width: 75%; 
+    max-width: 1100px; 
     display: block; 
     margin: 0 auto; 
 }
